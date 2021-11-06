@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imaspear
-- email : [gmail](rjsckdd12@gmail.com) , [univ](geonc123@pukyong.ac.kr)
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rjsckdd12@gmail.com)](rjsckdd12@gmail.com)
-	[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=geonc123@pukyong.ac.kr)](geonc123@pukyong.ac.krm)
+- email 
+	- gmail [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjsckdd12@gmail.com)](mailto:rjsckdd12@gmail.com)
+	- univ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geonc123@pukyong.ac.kr)](mailto:geonc123@pukyong.ac.krm)
 	
 - [TISTORY](https://imspear.tistory.com)
 - [SOLVE.AC](https://solved.ac/profile/geonc123)
