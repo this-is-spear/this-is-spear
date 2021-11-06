@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Imaspear
 - email : [gmail](rjsckdd12@gmail.com) , [univ](geonc123@pukyong.ac.kr)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rjsckdd12@gmail.com)](rjsckdd12@gmail.com)
+	[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=geonc123@pukyong.ac.kr)](geonc123@pukyong.ac.krm)
+	
 - [TISTORY](https://imspear.tistory.com)
 - [SOLVE.AC](https://solved.ac/profile/geonc123)
 
@@ -16,3 +19,7 @@
 Imaspear/Imaspear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://imaspear.github.io/ImaspearBlog/)](https://imaspear.github.io/ImaspearBlog//)
+	
