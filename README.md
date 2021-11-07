@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Imaspear
 - email 
 	- gmail 
-	
 	[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjsckdd12@gmail.com)](mailto:rjsckdd12@gmail.com)
 	- univ  
 	[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geonc123@pukyong.ac.kr)](mailto:geonc123@pukyong.ac.krm)
