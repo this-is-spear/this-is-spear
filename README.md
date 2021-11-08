@@ -8,7 +8,8 @@
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImaspear&count_bg=%239A9B9A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geonc123)](https://solved.ac/geonc123)
+[![Solved.ac Iamaspear](http://mazassumnida.wtf/api/generate_badge?boj={geonc123})](https://solved.ac/geonc123)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
