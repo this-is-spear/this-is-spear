@@ -17,7 +17,7 @@
 ---
 ### Solved algorithm problems
 
-[![Solved.ac Iamaspear](http://mazassumnida.wtf/api/v2/generate_badge?boj=geonc123)](https://solved.ac/profile/geonc123)
+[![Solved.ac Iamaspear](http://mazassumnida.wtf/api/v2/generate_badge?boj=geonc123)](https://solved.ac/geonc123)
 
 ---
 ### STATS
