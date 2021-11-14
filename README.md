@@ -35,12 +35,12 @@
 ### ✨ Recent  repository ✨
 
 <a href="https://github.com/Imaspear/AndroidCalculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=AndroidCalculator" />
 </a>
 <a href="https://github.com/Imaspear/hello-spring">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=hello-spring" />
 </a>
 <a href="https://github.com/Imaspear/IntroduceDepartmentApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=IntroduceDepartmentApp" />
 </a>
 
