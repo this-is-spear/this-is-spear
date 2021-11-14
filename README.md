@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%Imaspear%20%20&height=200&fontSize=100)
 
+[![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
 ---
 
 ### email 
@@ -24,11 +25,19 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-<center>
-    Thank you
-</center>
 ---
-<!---
-Imaspear/Imaspear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### ✨ special  repository ✨
+
+<a href="https://github.com/Imaspear/AndroidCalculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
