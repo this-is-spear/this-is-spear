@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%Imaspear%20%20&height=200&fontSize=100)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%Imaspear%20%20&height=200&fontSize=100) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Imaspear&fontSize=90)
 
 [![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
 ---
 
 ### email 
-- gmail[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjsckdd12@gmail.com)](mailto:rjsckdd12@gmail.com)
-- univ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geonc123@pukyong.ac.kr)](mailto:geonc123@pukyong.ac.krm)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjsckdd12@gmail.com)](mailto:rjsckdd12@gmail.com)   gmail
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geonc123@pukyong.ac.kr)](mailto:geonc123@pukyong.ac.krm)   univ
 ### active
 - [TISTORY](https://imspear.tistory.com)
 - [SOLVE.AC](https://solved.ac/profile/geonc123)
