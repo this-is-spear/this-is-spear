@@ -4,13 +4,6 @@
 [![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
 ---
 
-### email 
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjsckdd12@gmail.com)](mailto:rjsckdd12@gmail.com)   gmail
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geonc123@pukyong.ac.kr)](mailto:geonc123@pukyong.ac.krm)   univ
-### active
-- [TISTORY](https://imspear.tistory.com)
-- [SOLVE.AC](https://solved.ac/profile/geonc123)
-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://imaspear.github.io/ImaspearBlog/)](https://imaspear.github.io/ImaspearBlog//)
 	
 ---
 ### MY HITS
@@ -18,6 +11,8 @@
 
 ---
 ### Solved algorithm problems
+-  [Records of solving problems on the Baekjoon Online Judge site.](https://solved.ac/profile/geonc123)
+
 
 [![Solved.ac Iamaspear](http://mazassumnida.wtf/api/v2/generate_badge?boj=geonc123)](https://solved.ac/geonc123)
 
