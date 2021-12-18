@@ -34,11 +34,14 @@
 <a href="https://github.com/Imaspear/GiveMyHeartToEveryonePage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=GiveMyHeartToEveryonePage" />
 </a>
+<a href="https://github.com/Imaspear/GiveMyHeartToEveryonePageServer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=GiveMyHeartToEveryonePageServer" />
+</a>
 <a href="https://github.com/Imaspear/WhatIsSpring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=WhatIsSpring" />
 </a>
-<a href="https://github.com/Imaspear/Busan-Sturdy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=Busan-Sturdy" />
+<a href="https://github.com/Imaspear/Busan-Study">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=Busan-Study" />
 </a>
 <a href="https://github.com/Imaspear/second-hello-spring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=second-hello-spring" />
