@@ -43,7 +43,7 @@
 <a href="https://github.com/Imaspear/HTTPWithMarkdown">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=second-hello-spring" />
 </a>
-<a href="https://github.com/Imaspear/Busan-Study">
+<!-- <a href="https://github.com/Imaspear/Busan-Study">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=Busan-Study" />
 </a>
-
+ -->
