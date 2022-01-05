@@ -37,13 +37,8 @@
 <a href="https://github.com/Imaspear/GiveMyHeartToEveryonePageServer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=GiveMyHeartToEveryonePageServer" />
 </a>
-<a href="https://github.com/Imaspear/WhatIsSpring">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=WhatIsSpring" />
-</a>
-<a href="https://github.com/Imaspear/HTTPWithMarkdown">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=second-hello-spring" />
-</a>
-<!-- <a href="https://github.com/Imaspear/Busan-Study">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=Busan-Study" />
-</a>
- -->
+
+<!-- ### 🌟 currently studying skill 🌟
+
+[스프링](https://imaspear.notion.site/78b8c7922c534faa993b19de6831ede9)
+[HTTP](https://imaspear.notion.site/HTTP-85cc1335eb4b43619e2e2e92f0abe2b9) -->
