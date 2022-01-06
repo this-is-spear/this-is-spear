@@ -38,7 +38,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=GiveMyHeartToEveryonePageServer" />
 </a>
 
-<!-- ### 🌟 currently studying skill 🌟
+### 🌟 currently studying content 🌟
 
-[스프링](https://imaspear.notion.site/78b8c7922c534faa993b19de6831ede9)
-[HTTP](https://imaspear.notion.site/HTTP-85cc1335eb4b43619e2e2e92f0abe2b9) -->
+#### 스프링
+
+- [스프링](https://imaspear.notion.site/78b8c7922c534faa993b19de6831ede9)
+- [HTTP](https://imaspear.notion.site/HTTP-85cc1335eb4b43619e2e2e92f0abe2b9)
