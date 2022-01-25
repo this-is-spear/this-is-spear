@@ -44,4 +44,5 @@
 
 - [스프링](https://imaspear.notion.site/78b8c7922c534faa993b19de6831ede9)
 - [HTTP](https://imaspear.notion.site/HTTP-85cc1335eb4b43619e2e2e92f0abe2b9)
-- [스프링 MVC 1편](https://imaspear.notion.site/MVC-1-396e6531d127406f82c5898b13cc1f3e)
+- [스프링 MVC 1](https://imaspear.notion.site/MVC-1-396e6531d127406f82c5898b13cc1f3e)
+- [스프링 MVC 2](https://imaspear.notion.site/MVC-2-6705775225cd4fabb9a31575184c5c21)
