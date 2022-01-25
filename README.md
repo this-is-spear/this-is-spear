@@ -2,8 +2,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Imaspear&fontSize=90)
 
 [![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
+
 ---
 
+### 🌟 currently studying content 🌟
+
+#### 스프링
+
+- [스프링](https://imaspear.notion.site/78b8c7922c534faa993b19de6831ede9)
+- [HTTP](https://imaspear.notion.site/HTTP-85cc1335eb4b43619e2e2e92f0abe2b9)
+- [스프링 MVC 1](https://imaspear.notion.site/MVC-1-396e6531d127406f82c5898b13cc1f3e)
+- [스프링 MVC 2](https://imaspear.notion.site/MVC-2-6705775225cd4fabb9a31575184c5c21)
 	
 ---
 ### MY HITS
@@ -18,6 +27,7 @@
 ![Iamaspear profile](http://mazandi.herokuapp.com/api?handle=geonc123&theme=cold)
 
 ---
+
 ### STATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
 <br>
@@ -38,11 +48,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=GiveMyHeartToEveryonePageServer" />
 </a>
 
-### 🌟 currently studying content 🌟
-
-#### 스프링
-
-- [스프링](https://imaspear.notion.site/78b8c7922c534faa993b19de6831ede9)
-- [HTTP](https://imaspear.notion.site/HTTP-85cc1335eb4b43619e2e2e92f0abe2b9)
-- [스프링 MVC 1](https://imaspear.notion.site/MVC-1-396e6531d127406f82c5898b13cc1f3e)
-- [스프링 MVC 2](https://imaspear.notion.site/MVC-2-6705775225cd4fabb9a31575184c5c21)
