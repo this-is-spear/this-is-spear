@@ -25,7 +25,7 @@
 
 [![Solved.ac Iamaspear](http://mazassumnida.wtf/api/v2/generate_badge?boj=geonc123)](https://solved.ac/geonc123)
 ![Iamaspear profile](http://mazandi.herokuapp.com/api?handle=geonc123&theme=cold)
-
+<!-- 
 ---
 
 ### STATS
@@ -37,7 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Iamaspear's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 ### ✨ Recent  repository ✨
 
@@ -47,4 +46,5 @@
 <a href="https://github.com/Imaspear/GiveMyHeartToEveryonePageServer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=GiveMyHeartToEveryonePageServer" />
 </a>
+ -->
 
