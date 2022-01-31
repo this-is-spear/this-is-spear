@@ -1,8 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%Imaspear%20%20&height=200&fontSize=100) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=this-is-spear&fontSize=90)
-
-[![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
-
 ---
 
 ### 🌟 currently studying content 🌟
