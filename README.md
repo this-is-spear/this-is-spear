@@ -19,12 +19,12 @@
 
 ### ✨ Recent  repository ✨
 
-<a href="https://github.com/this-is-spear/spring-comments">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-comments" />
+<a href="https://github.com/this-is-spear/spring-comments-of-spear">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-comments-of-spear" />
 </a>
 
-<a href="https://github.com/this-is-spear/spring-logback-mdc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-logback-mdc" />
+<a href="https://github.com/this-is-spear/spring-logback-mdc-of-spear">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-logback-mdc-of-spear" />
 </a>
 <a href="https://github.com/this-is-spear/spring-message-function-of-spear">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-message-function-of-spear" />
