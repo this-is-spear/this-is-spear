@@ -16,6 +16,27 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImaspear&count_bg=%239A9B9A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
+
+### ✨ Recent  repository ✨
+
+<a href="https://github.com/this-is-spear/spring-comments">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-comments" />
+</a>
+
+<a href="https://github.com/this-is-spear/spring-logback-mdc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-logback-mdc" />
+</a>
+<a href="https://github.com/this-is-spear/spring-message-function-of-spear">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-message-function-of-spear" />
+</a>
+
+<!--
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=" />
+</a>
+-->
+
+---
 ### Solved algorithm problems
 -  [Records of solving problems on the Baekjoon Online Judge site.](https://solved.ac/profile/geonc123)
 
@@ -35,13 +56,7 @@
 
 [![Iamaspear's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
 ---
-### ✨ Recent  repository ✨
 
-<a href="https://github.com/Imaspear/GiveMyHeartToEveryonePage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=GiveMyHeartToEveryonePage" />
-</a>
-<a href="https://github.com/Imaspear/GiveMyHeartToEveryonePageServer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaspear&repo=GiveMyHeartToEveryonePageServer" />
-</a>
- -->
+-->
+
 
