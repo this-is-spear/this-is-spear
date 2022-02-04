@@ -43,20 +43,15 @@
 
 [![Solved.ac Iamaspear](http://mazassumnida.wtf/api/v2/generate_badge?boj=geonc123)](https://solved.ac/geonc123)
 ![Iamaspear profile](http://mazandi.herokuapp.com/api?handle=geonc123&theme=cold)
-<!-- 
+
 ---
+
 
 ### STATS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
----
-### Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Iamaspear's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Imaspear)](https://github.com/anuraghazra/github-readme-stats)
----
 
--->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=this-is-spear)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this-is-spear&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
