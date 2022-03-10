@@ -2,7 +2,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=this-is-spear&fontSize=90) -->
 ---
 
-### 🌟 currently studying content 🌟
+### 🌟 currently studying content 🌟'
+
+[![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
 
 #### 스프링
 
@@ -23,20 +25,18 @@
 
 ### ✨ Recent  repository ✨
 
-<a href="https://github.com/this-is-spear/spring-comments-of-spear">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-comments-of-spear" />
+<a href="https://github.com/next-step/ddd-legacy/tree/this-is-spear">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=ddd-legacy" />
 </a>
-
-<a href="https://github.com/this-is-spear/spring-logback-mdc-of-spear">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-logback-mdc-of-spear" />
+<a href="https://github.com/this-is-spear/posting-review/tree/tis/tis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=posting-review" />
 </a>
-<a href="https://github.com/this-is-spear/spring-message-function-of-spear">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-message-function-of-spear" />
+<a href="https://github.com/this-is-spear/spring-community-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-community-project" />
 </a>
-
 <!--
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=" />
+<a href="https://github.com/this-is-spear/spring-community-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-community-project" />
 </a>
 -->
 
