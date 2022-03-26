@@ -6,17 +6,16 @@
 
 [![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
 
+#### 설계
+
+[좋은 객체 지향 설계란 무엇일까](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-02-24/좋은-객체지향-설계란-무엇일까.md)
+
 #### 스프링
 
-- [스프링](https://imaspear.notion.site/78b8c7922c534faa993b19de6831ede9)
-- [HTTP](https://imaspear.notion.site/HTTP-85cc1335eb4b43619e2e2e92f0abe2b9)
-- [스프링 MVC 1](https://imaspear.notion.site/MVC-1-396e6531d127406f82c5898b13cc1f3e)
-- [스프링 MVC 2](https://imaspear.notion.site/MVC-2-6705775225cd4fabb9a31575184c5c21)
+[스프링 MVC 패턴](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-03-24/스프링과-MVC-패턴.md)
 
-#### JPA
+[스프링에서 트랜잭션 처리](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-03-10/스프링에서-트랜잭션-처리.md)
 
-- [자바 ORM 표준 JPA 프로그래밍](https://imaspear.notion.site/ORM-JPA-cefd2323c20c46b78e321558946d3421)
-	
 ---
 ### MY HITS
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImaspear&count_bg=%239A9B9A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
