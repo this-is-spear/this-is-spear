@@ -2,7 +2,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=this-is-spear&fontSize=90) -->
 ---
 
-### 🌟 currently studying content 🌟'
+### 🌟 currently studying content 🌟
 
 [![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
 
@@ -12,7 +12,7 @@
 
 #### 스프링
 
-[스프링 MVC 패턴](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-03-24/스프링과-MVC-패턴.md)
+[스프링 서블릿과 MVC 패턴](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-03-24/스프링과-MVC-패턴.md)
 
 [스프링에서 트랜잭션 처리](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-03-10/스프링에서-트랜잭션-처리.md)
 
