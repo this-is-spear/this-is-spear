@@ -6,15 +6,20 @@
 
 [![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
 
-#### 설계
-
-[좋은 객체 지향 설계란 무엇일까](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-02-24/좋은-객체지향-설계란-무엇일까.md)
 
 #### 스프링
 
 [스프링 서블릿과 MVC 패턴](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-03-24/스프링과-MVC-패턴.md)
 
 [스프링에서 트랜잭션 처리](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-03-10/스프링에서-트랜잭션-처리.md)
+
+#### 데이터베이스
+
+[DBMS에서 **하나의 SQL**에  트레이드 오프](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-04-07/DBMS_하나의_구문에서_트레이드_오프.md)
+
+#### 객체지향
+
+[좋은 객체 지향 설계란 무엇일까](https://github.com/this-is-spear/posting-review/blob/tis/tis/2022-02-24/좋은-객체지향-설계란-무엇일까.md)
 
 ---
 ### MY HITS
