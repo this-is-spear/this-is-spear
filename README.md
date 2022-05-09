@@ -2,10 +2,15 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=this-is-spear&fontSize=90) -->
 ---
 
+### 🌟 자기 소개 🌟
+
+안녕하세요! 서버 개발자를 희망하고 있는 이건창입니다. ☺️
+
+[포트폴리오](https://imaspear.notion.site/f5a30584847847d38a49e9f0e345aaa0)
+
 ### 🌟 currently studying content 🌟
 
 [![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
-
 
 #### 스프링
 
