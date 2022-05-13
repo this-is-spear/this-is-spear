@@ -8,7 +8,7 @@
 
 [포트폴리오](https://imaspear.notion.site/f5a30584847847d38a49e9f0e345aaa0)
 
-<a href="https://opgc.me/#/users/this-is-spear" target="_blank"><img src="https://api.opgc.me/githubs/users/this-is-spear/tag/?theme=basic" /></a>
+<!-- <a href="https://opgc.me/#/users/this-is-spear" target="_blank"><img src="https://api.opgc.me/githubs/users/this-is-spear/tag/?theme=basic" /></a> -->
 
 
 ### 🌟 currently studying content 🌟
