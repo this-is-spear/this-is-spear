@@ -37,20 +37,24 @@
 
 ### ✨ Recent  repository ✨
 
-<a href="https://github.com/next-step/ddd-legacy/tree/this-is-spear">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=ddd-legacy" />
-</a>
-<a href="https://github.com/this-is-spear/posting-review/tree/tis/tis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=posting-review" />
-</a>
-<a href="https://github.com/this-is-spear/spring-community-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-community-project" />
-</a>
 <!--
 <a href="https://github.com/this-is-spear/spring-community-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=this-is-spear&repo=spring-community-project" />
 </a>
 -->
+
+<a href="https://github.com/object-oriented-thinking/member-domain/pulls?q=is%3Apr+">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=object-oriented-thinking&repo=member-domain" />
+</a>
+
+<a href="https://github.com/Stacked-Book/network">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stacked-Book&repo=network" />
+</a>
+
+<a href="https://github.com/Stacked-Book/os-hardware">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stacked-Book&repo=os-hardware" />
+</a>
+
 
 ---
 ### Solved algorithm problems
