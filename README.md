@@ -4,7 +4,7 @@
 
 ### 🌟 자기 소개 🌟
 
-[포트폴리오](https://imaspear.notion.site/f5a30584847847d38a49e9f0e345aaa0)
+[포트폴리오](https://imaspear.notion.site/863bf19e681e4ac09274d94169ce0d7d)
 
 [![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImaspear&count_bg=%239A9B9A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
