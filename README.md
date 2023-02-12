@@ -8,6 +8,11 @@
 
 안녕하세요. 말에 힘이 있는 사람이 되기 위해 노력하는 백엔드 개발자 이건창입니다.
 
+### 소프트 스킬을 중요하게 생각합니다.
+
+- 개발 효율을 높이기 위해 명확한 의미 전달, 정확한 이해와 같은 소프트 스킬을 중요하게 생각합니다.
+- [관련 주제의 책](https://www.notion.so/8db9702a527f4780aa91808b5ee5ef7c)을 읽고, [포스팅](https://velog.io/@this-is-spear?tag=%EC%86%8C%ED%94%84%ED%8A%B8%EC%8A%A4%ED%82%AC)하며 소프트 스킬을 높이고 있습니다.
+
 ### 트렌드에 맞춰 변화하는 코드를 추구합니다.
 
 - 빠른 변화에 적응할 수 있게 확장성과 변화에도 안정적인 견고함을 통해 관리 비용을 줄이는 방식을 추구합니다.
@@ -21,8 +26,3 @@
 
 - [책 읽기 스터디](https://github.com/Stacked-Book), [포스팅 리뷰 스터디](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Aclosed+is%3Apr+author%3Athis-is-spear+), [RealMySQL 스터디](https://www.notion.so/9beed6627f224c21b1cac1beb82b1d07)를 통해 `함께 가면 멀리 간다.`라는 말을 몸소 경험했습니다. 
 - 위 경험을 통해 꾸준함을 느꼈고, 꾸준함의 결과인 기록을 보며 희열을 느낍니다.
-
-### 소프트 스킬을 중요하게 생각합니다.
-
-- 개발 효율을 높이기 위해 명확한 의미 전달, 정확한 이해와 같은 소프트 스킬을 중요하게 생각합니다.
-- [관련 주제의 책](https://www.notion.so/8db9702a527f4780aa91808b5ee5ef7c)을 읽고, [포스팅](https://velog.io/@this-is-spear?tag=%EC%86%8C%ED%94%84%ED%8A%B8%EC%8A%A4%ED%82%AC)하며 소프트 스킬을 높이고 있습니다.
