@@ -11,7 +11,7 @@
 ### 소프트 스킬을 중요하게 생각합니다.
 
 - 개발 효율을 높이기 위해 명확한 의미 전달, 정확한 이해와 같은 소프트 스킬을 중요하게 생각합니다.
-- [관련 주제의 책](https://www.notion.so/8db9702a527f4780aa91808b5ee5ef7c)을 읽고, [포스팅](https://velog.io/@this-is-spear?tag=%EC%86%8C%ED%94%84%ED%8A%B8%EC%8A%A4%ED%82%AC)하며 소프트 스킬을 높이고 있습니다.
+- 관련 주제의 [책](https://www.notion.so/8db9702a527f4780aa91808b5ee5ef7c)을 읽고, [포스팅](https://velog.io/@this-is-spear?tag=%EC%86%8C%ED%94%84%ED%8A%B8%EC%8A%A4%ED%82%AC)하며 소프트 스킬을 높이고 있습니다.
 
 ### 트렌드에 맞춰 변화하는 코드를 추구합니다.
 
