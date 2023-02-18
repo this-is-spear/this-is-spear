@@ -20,9 +20,7 @@
 ### 코드 품질을 높이기 위해 공을 들입니다.
 
 - 반복적인 특성이 나타나는 작업을 프로세스화해 개발 시간을 단축시켜 코드 품질을 높일 시간을 확보하고 있습니다. 
-- 특히 코드 품질 관리 외적인 작업을 자동화하고 있습니다.
 
 ### 꾸준함을 즐깁니다.
 
-- [책 읽기 스터디](https://github.com/Stacked-Book), [포스팅 리뷰 스터디](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Aclosed+is%3Apr+author%3Athis-is-spear+), [RealMySQL 스터디](https://www.notion.so/9beed6627f224c21b1cac1beb82b1d07)를 통해 `함께 가면 멀리 간다.`라는 말을 몸소 경험했습니다. 
-- 위 경험을 통해 꾸준함을 느꼈고, 꾸준함의 결과인 기록을 보며 희열을 느낍니다.
+- [책 읽기 스터디](https://github.com/Stacked-Book), [포스팅 리뷰 스터디](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Aclosed+is%3Apr+author%3Athis-is-spear+), [RealMySQL 스터디](https://www.notion.so/9beed6627f224c21b1cac1beb82b1d07)를 통해 `함께 가면 멀리 간다.`라는 말을 몸소 경험했고, 이런 경험의 결과인 기록을 보며 희열을 느낍니다.
