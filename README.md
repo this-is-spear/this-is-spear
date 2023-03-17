@@ -17,7 +17,7 @@
 
 ![Spring Web MVC](https://img.shields.io/badge/Spring%20Web%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Reactive Web](https://img.shields.io/badge/Spring%20Reactive%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JDBC](https://img.shields.io/badge/Spring%20Data%20JDBC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <br>
 
