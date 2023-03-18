@@ -61,16 +61,13 @@
 
 #### 블로그
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=Reactive-Programming에-매료된-이유)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=Reactive-Programming에-매료된-나)](https://velog.io/@this-is-spear/Reactive-Programming%EC%97%90-%EB%A7%A4%EB%A3%8C%EB%90%9C-%EC%9D%B4%EC%9C%A0)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=JPA-영속성-컨텍스트-이슈)](https://velog.io/@this-is-spear/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%9D%B4%EC%8A%88)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=JPA-영속성-이슈)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=동시성-문제-해결-경험)](https://velog.io/@this-is-spear/%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EA%B2%BD%ED%97%98)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=직접-바라본-Test-Driven-Development)](https://velog.io/@this-is-spear/%EB%82%B4%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-Test-Driven-Development)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=동시성-문제-해결-경험)](https://github.com/eungyeole/velog-readme-stats)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=내가-바라본-Test-Driven-Development)](https://github.com/eungyeole/velog-readme-stats)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=데이터베이스-인덱스를-사용해서-경험해보자)](https://github.com/eungyeole/velog-readme-stats)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=데이터베이스-인덱스를-사용해서-경험해보자)](https://velog.io/@this-is-spear/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EA%B2%BD%ED%97%98%ED%95%B4%EB%B3%B4%EC%9E%90)
 
