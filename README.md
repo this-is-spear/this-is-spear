@@ -61,13 +61,5 @@
 
 #### 학습 정리 블로그
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=Reactive-Programming에-매료된-이유)](https://velog.io/@this-is-spear/Reactive-Programming%EC%97%90-%EB%A7%A4%EB%A3%8C%EB%90%9C-%EC%9D%B4%EC%9C%A0)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=JPA-영속성-이슈)](https://velog.io/@this-is-spear/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%9D%B4%EC%8A%88)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=데이터베이스-인덱스를-사용해서-경험해보자)](https://velog.io/@this-is-spear/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EA%B2%BD%ED%97%98%ED%95%B4%EB%B3%B4%EC%9E%90)
-
-#### 2022 회고록
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=2022-회고)](https://velog.io/@this-is-spear/2022-%ED%9A%8C%EA%B3%A0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=this-is-spear)](https://velog.io/@this-is-spear) 
 
