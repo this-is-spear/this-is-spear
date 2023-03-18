@@ -61,4 +61,16 @@
 
 #### 블로그
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=this-is-spear)](https://velog.io/@this-is-spear) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=Reactive-Programming에-매료된-이유)](https://github.com/eungyeole/velog-readme-stats)
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=JPA-영속성-이슈)](https://github.com/eungyeole/velog-readme-stats)
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=동시성-문제-해결-경험)](https://github.com/eungyeole/velog-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=내가-바라본-Test-Driven-Development)](https://github.com/eungyeole/velog-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=this-is-spear&slug=데이터베이스-인덱스를-사용해서-경험해보자)](https://github.com/eungyeole/velog-readme-stats)
+
+
