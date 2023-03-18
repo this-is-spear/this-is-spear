@@ -24,25 +24,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Details
-
-#### 🔥 소프트 스킬을 이용해 효율적인 커뮤니케이션이 가능합니다.
-
-- 개발 효율을 높이기 위해 명확한 의미 전달, 정확한 이해와 같은 소프트 스킬을 중요하게 생각합니다.
-- 관련 주제의 [책](https://www.notion.so/8db9702a527f4780aa91808b5ee5ef7c)을 읽고, [포스팅](https://velog.io/@this-is-spear?tag=%EC%86%8C%ED%94%84%ED%8A%B8%EC%8A%A4%ED%82%AC)하며 소프트 스킬을 높이고 있습니다.
-
-#### ✨ 안정적인 설계에도 비용이 늘지 않는 방법을 추구합니다.
-
-- 빠른 변화에 적응할 수 있는 확장성과 변화에도 안정적인 견고함을 통해 관리 비용을 줄이는 방식을 추구합니다.
-
-#### ✅ 프로세스를 활용해 더 높은 가치를 추구합니다.
-
-- 반복적인 특성이 나타나는 작업을 프로세스화해 개발 시간을 단축시켜 코드 품질을 높일 시간을 확보하고 있습니다. 
-
-#### 🙏 여담이지만, 꾸준함을 즐깁니다.
-
-- [책 읽기 스터디](https://github.com/Stacked-Book), [포스팅 리뷰 스터디](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Aclosed+is%3Apr+author%3Athis-is-spear+), [RealMySQL 스터디](https://www.notion.so/9beed6627f224c21b1cac1beb82b1d07)를 통해 `함께 가면 멀리 간다.`라는 말을 몸소 경험했고, 이런 경험의 결과인 기록을 보며 희열을 느낍니다.
-
 ### Foot Print
 
 #### 교육 활동
