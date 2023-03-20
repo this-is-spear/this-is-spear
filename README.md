@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImaspear&count_bg=%239A9B9A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-안녕하세요. 성능과 비용 사이에서 효율적인 선택을 고민하는 개발자 이건창입니다. 현재는 `Object oriented programming`에 매료되어 [프로젝트](https://github.com/this-is-spear/numble-banking-api)를 진행하고 있습니다. 최근에는 `Data Stream`을 `Declaratively programming` 방식으로 구현해 코드 재사용성을 높이고, `Non-Blocking` 하게 구현해 리소스를 효율적으로 사용하는 것을 목표로 [프로젝트](https://github.com/this-is-spear/numble-mybox)를 진행하고 있습니다.
+안녕하세요. 성능과 비용 사이에서 효율적인 선택을 고민하는 개발자 이건창입니다. 제가 추구하는 가치는 빠른 가치 전달, 긍정적인 영향 , 실현 가능성 입니다. 주도적으로 업무를 수행할 수 있는 곳을 선호합니다.
 
 ### Skils
 
