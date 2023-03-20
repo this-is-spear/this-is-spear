@@ -26,14 +26,23 @@
 
 ### Details
 
+#### 🔥 실행력을 높이기 위해 구현 능력을 키우고 있습니다.
 
-#### 🔥 소프트 스킬을 이용해 효율적인 커뮤니케이션이 가능합니다.
+프로젝트를 진행하면서 `Object oriented programming`를 활용해 코드 재사용성을 높여 개발 생산성을 높이고 있습니다. 최근 프로젝트에는 `Data Stream`을 `Declaratively programming` 방식을 활용해 코드 재사용성을 높이고, `Non-Blocking`을 활용해 리소스를 효율적으로 사용하는 것을 추구합니다.
 
-개발 효율을 높이기 위해 명확한 의미 전달, 정확한 이해와 같은 소프트 스킬을 중요하게 생각합니다. 관련 주제의 [책](https://www.notion.so/8db9702a527f4780aa91808b5ee5ef7c)을 읽고, [포스팅](https://velog.io/@this-is-spear?tag=%EC%86%8C%ED%94%84%ED%8A%B8%EC%8A%A4%ED%82%AC)하며 소프트 스킬을 높이고 있습니다.
 
-#### 🙏 여담이지만, 꾸준함을 즐깁니다.
+#### 🔥 소프트 스킬을 연마해 C`ommunication `효율을 높이고 있습니다.
 
-[책 읽기 스터디](https://github.com/Stacked-Book), [포스팅 리뷰 스터디](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Aclosed+is%3Apr+author%3Athis-is-spear+), [RealMySQL 스터디](https://www.notion.so/9beed6627f224c21b1cac1beb82b1d07)를 통해 `함께 가면 멀리 간다.`라는 말을 몸소 경험했고, 이런 경험의 결과인 기록을 보며 희열을 느낍니다.
+
+소통 비용을 줄여 개발 효율을 높이기 위해 `Communication`에 신경쓰고 있습니다. **명확한 의미 전달**을 위해 블로그 글 정리를 연습하고 있으며 **정확한 경청**을 위해 책을 읽고 있습니다. 최근에는  `애자일로 가는 길`을 읽고 협업 과정에서 `Abstraction`의 중요성과 문제 탐색을 위한 `Mindfulness`의 중요성을 알게 되었고 `Efficient`한 `Communication`에 신경쓰고 있습니다.
+
+
+#### 🙏 여담이지만, 꾸준함을 함`께 `즐깁니다.
+
+
+여러 스터디를 통해 `함께 가면 멀리 간다.`라는 말을 몸소 경험했고, 함께하는 사람들에게 긍정적인 영향을 주기 위해 신경쓰고 있습니다.  최근에는 [RealMySQL 책 스터디](https://www.craft.do/s/tLDOBpVJGDv8XM)를 진행하며 공유할 정보를 정리해서 공유하며 스터디의 적극적인 분위기를 이끌었습니다. 여담의 여담이지만, 공유한 기록들을 보며 뿌듯함도 느끼고 있습니다.
+
+
 
 ### Foot Print
 
