@@ -26,15 +26,15 @@
 
 ### Details
 
-#### 🔥 실행력을 높이기 위해 구현 능력을 키우고 있습니다.
+#### 🔥 성능과 비용간 선택지를 늘리기 위해 구현 능력을 키우고 있습니다.
 
-프로젝트를 진행하면서 `Object oriented programming`를 활용해 코드 재사용성을 높여 개발 생산성을 높이고 있습니다. 최근 프로젝트에는 `Data Stream`을 `Declaratively programming` 방식을 활용해 코드 재사용성을 높이고, `Non-Blocking`을 활용해 리소스를 효율적으로 사용하는 것을 추구합니다.
-
-
-#### 🔥 소프트 스킬을 연마해 C`ommunication `효율을 높이고 있습니다.
+코드 재사용성을 높여 개발 생산성을 높이기 위해 `Object oriented programming`를 활용해 높은 코드 퀄리티를 유지하고 있습니다. 최근 프로젝트에는 `Data Stream`을 `Declaratively programming` 방식을 활용해 코드 재사용성을 높이고, `Non-Blocking`을 활용해 리소스를 효율적으로 사용하는 것을 추구합니다.
 
 
-소통 비용을 줄여 개발 효율을 높이기 위해 `Communication`에 신경쓰고 있습니다. **명확한 의미 전달**을 위해 블로그 글 정리를 연습하고 있으며 **정확한 경청**을 위해 책을 읽고 있습니다. 최근에는  `애자일로 가는 길`을 읽고 협업 과정에서 `Abstraction`의 중요성과 문제 탐색을 위한 `Mindfulness`의 중요성을 알게 되었고 `Efficient`한 `Communication`에 신경쓰고 있습니다.
+#### 🔥 소프트 스킬을 연마해 `Communication` 효율을 높이고 있습니다.
+
+
+소통 비용을 줄이기 위해 `Communication`에 신경쓰고 있습니다. **명확한 의미 전달**을 위해 블로그 글 정리를 연습하고 있으며 **정확한 경청**을 위해 책을 읽고 있습니다. 최근에는  `애자일로 가는 길`을 읽고 협업 과정에서 `Abstraction`의 중요성과 문제 탐색을 위한 `Mindfulness`의 중요성을 알게 되었고 `Efficient`한 `Communication`에 신경쓰고 있습니다.
 
 
 #### 🙏 여담이지만, 꾸준함을 함`께 `즐깁니다.
