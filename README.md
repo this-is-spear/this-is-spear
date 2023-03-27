@@ -57,7 +57,7 @@
 
 - 2023.01 ~ 2022.03 : [MySQL 스터디](https://www.craft.do/s/tLDOBpVJGDv8XM)
 - 2022.04 ~ 2023.01 : [책읽기 스터디](https://github.com/Stacked-Book)
-- 2022.02 ~ 2022.11 : [학습 내용 발표 스터디](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Apr+author%3Athis-is-spear+is%3Aclosed+)
+- 2022.02 ~ 2022.11 : [학습 내용 발표 스터디(Meet Coder)](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Apr+author%3Athis-is-spear+is%3Aclosed+)
 - 2021.12 ~ 2022.01 : [인프런 스프링 스터디](https://www.craft.do/s/dxzyRZGaX0ayiB)
 
 #### 학습 정리 블로그
