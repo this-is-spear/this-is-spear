@@ -4,7 +4,8 @@
 [![wakatime](https://wakatime.com/badge/user/90b119ca-80b9-4368-a9d2-3404cc5dd55b.svg)](https://wakatime.com/@90b119ca-80b9-4368-a9d2-3404cc5dd55b)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImaspear&count_bg=%239A9B9A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-안녕하세요. 성능과 비용 사이에서 효율적인 선택을 고민하는 개발자 이건창입니다. 제가 추구하는 가치는 `빠른 가치 전달`, `긍정적인 영향` , `실현 가능성` 입니다. 주도적으로 업무를 수행할 수 있는 곳을 선호합니다.
+안녕하세요. 지식을 활용해 가치를 효율적으로 전달 할 수 있는 결정권에 매료되어 백엔드 개발자의 길을 걷고 있는 이건창입니다. 이슈에서 발생했던 고민과 해결 방법을 Git Wiki에 아카이빙하며 저장된 정보를 이용해 유사 이슈 발생시 동반하는 제약 사항을 잘 회피하며 문제를 효율적으로 해결하고 있습니다.
+
 
 ### Skils
 
