@@ -53,6 +53,10 @@
 - 2022.02 ~ 2022.11 : [학습 내용 발표 스터디(Meet Coder)](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Apr+author%3Athis-is-spear+is%3Aclosed+)
 - 2021.12 ~ 2022.01 : [인프런 스프링 스터디](https://www.craft.do/s/dxzyRZGaX0ayiB)
 
+#### 회고록
+
+- [22년 동안 기른 열매](https://velog.io/@this-is-spear/2022-%ED%9A%8C%EA%B3%A0)
+
 #### 학습 정리 블로그
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=this-is-spear)](https://velog.io/@this-is-spear) 
