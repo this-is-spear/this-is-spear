@@ -48,18 +48,18 @@
 
 #### Education
 
-- 2022.12 ~ 2023.05 : F-lab Java Backend 과정
+- 2022.12 ~ 2023.05 : F-lab Java Backend
 - 2022.12 ~ 2022.12 : Next Step 인프라 공방 9기
 - 2022.07 ~ 2022.08 : Next Step ATDD 클린 코드 5기
 - 2022.03 ~ 2022.05 : Next Step DDD 세레나데 3기
 
 #### Study
 
-- 2023.04 ~ 진행 중 : [대규모 시스템 설계 기초 책 스터디](https://github.com/this-is-spear/system-design-interview/wiki)
-- 2023.01 ~ 2023.03 : [MySQL 스터디](https://www.craft.do/s/tLDOBpVJGDv8XM)
-- 2022.04 ~ 2023.01 : [책읽기 스터디](https://github.com/Stacked-Book)
-- 2022.02 ~ 2022.11 : [학습 내용 발표 스터디(Meet Coder)](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Apr+author%3Athis-is-spear+is%3Aclosed+)
-- 2021.12 ~ 2022.01 : [인프런 스프링 스터디](https://www.craft.do/s/dxzyRZGaX0ayiB)
+- 2023.04 ~ 진행 중  : [System Design](https://github.com/this-is-spear/system-design-interview/wiki)
+- 2023.01 ~ 2023.03 : [RealMySQL 1](https://www.craft.do/s/tLDOBpVJGDv8XM)
+- 2022.04 ~ 2023.01 : [Stacked Book](https://github.com/Stacked-Book)
+- 2022.02 ~ 2022.11 : [Meet Coder](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Apr+author%3Athis-is-spear+is%3Aclosed+)
+- 2021.12 ~ 2022.01 : [Inflearn Spring](https://www.craft.do/s/dxzyRZGaX0ayiB)
 
 #### Blog
 
