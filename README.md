@@ -5,7 +5,7 @@
 
 #### 🔥 Abstraction and Mindfulness
 
-**명확한 의미 전달**과 **정확한 경청**을 위해 꾸준하게 글을 쓰고 읽습니다. 최근에는 `애자일로 가는 길`을 읽고 커뮤니케이션 을 위한 `Abstraction`과 문제 탐색을 위한 `Mindfulness`을 활용해 위 목표를 해소했습니다.
+**명확한 의미 전달**과 **정확한 경청**을 위해 꾸준하게 글을 쓰고 읽습니다. 최근에는 `애자일로 가는 길`을 읽고 커뮤니케이션 을 위한 `Abstraction`과 문제 탐색을 위한 `Mindfulness`을 활용해 위 목표를 해소하고 있습니다.
 
 #### 🙏 Enjoying consistency
 
