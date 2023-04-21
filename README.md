@@ -46,7 +46,7 @@
 
 #### Study
 
-- 2023.04 ~ 진행 중  : [System Design](https://github.com/this-is-spear/system-design-interview/wiki)
+- 2023.04 ~ ongoing  : [System Design](https://github.com/this-is-spear/system-design-interview/wiki)
 - 2023.01 ~ 2023.03 : [RealMySQL part 1](https://www.craft.do/s/tLDOBpVJGDv8XM)
 - 2022.04 ~ 2023.01 : [Stacked Book](https://github.com/Stacked-Book)
 - 2022.02 ~ 2022.11 : [Meet Coder](https://github.com/Meet-Coder-Study/posting-review/pulls?q=is%3Apr+author%3Athis-is-spear+is%3Aclosed+)
