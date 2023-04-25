@@ -12,6 +12,16 @@
 - Thinking about Meaningful Business Solutions
 - Contributing to Open Source
 
+### Blog
+
+#### obsidian
+
+- [학습 내용 저장](https://publish.obsidian.md/this-is-spear/this-is-spear/index)
+
+#### velog
+
+- [정보 공유](https://velog.io/@this-is-spear)
+
 ### Skils
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,16 +39,4 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Blog
-
-#### obsidian
-
-- [학습 내용 저장](https://publish.obsidian.md/this-is-spear/this-is-spear/index)
-
-#### velog
-
-- [정보 공유](https://velog.io/@this-is-spear)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=this-is-spear)](https://velog.io/@this-is-spear) 
 
