@@ -16,11 +16,11 @@
 
 #### obsidian
 
-- [학습 내용 저장](https://publish.obsidian.md/this-is-spear/this-is-spear/index)
+- [블로그](https://publish.obsidian.md/this-is-spear/this-is-spear/index)
 
 #### velog
 
-- [정보 공유](https://velog.io/@this-is-spear)
+- [블로그](https://velog.io/@this-is-spear)
 
 ### Skils
 
