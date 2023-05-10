@@ -12,16 +12,6 @@
 - Thinking about Meaningful Business Solutions
 - Contributing to Open Source
 
-### Blog
-
-#### obsidian
-
-- [블로그](https://publish.obsidian.md/this-is-spear/this-is-spear/index)
-
-#### velog
-
-- [블로그](https://velog.io/@this-is-spear)
-
 ### Skils
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
