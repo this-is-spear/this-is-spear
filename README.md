@@ -3,10 +3,11 @@
 
 #### Current interest
 
-- Thinking about Automate validation to cover all situations
+- Worries to reduce the frequency of mistakes
 - Thinking about Efficient documentation
 - Thinking about Meaningful Business Solutions
 - Contributing to Open Source
+- Thinking about Automate validation to cover all situations
 
 ### Skils
 
