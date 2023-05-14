@@ -1,8 +1,4 @@
 
-### About Me
-
-가치를 효율적으로 전달 할 수 있는 결정권에 매료되어 백엔드 개발자의 길을 걷고 있습니다.
-
 ### Foot Print
 
 #### Current interest
