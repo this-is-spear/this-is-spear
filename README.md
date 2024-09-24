@@ -4,7 +4,7 @@
 백엔드 특성상 해결할 많은 선택지 속에서 제 몫을 묵묵히 해내고 있습니다.
 길을 닦는 것도 길을 터는 것도 즐기다보니 어느새 1년이 훌쩍 넘었내요 😁
 
-- [정리자료](https://tis-blog.vercel.app/)
+- [블로그 글](https://tis-blog.vercel.app/)
 - [프로젝트](https://tis-blog.vercel.app/projects)
 
 `받은 만큼 나누자`를 태도로 여러분과 함께하고 싶습니다.
