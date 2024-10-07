@@ -8,7 +8,7 @@
 - [프로젝트](https://tis-blog.vercel.app/projects)
 
 `받은 만큼 나누자`를 태도로 여러분과 함께하고 싶습니다.
-함꼐 손잡고 가는 길이 즐거운 경험이 되길 희망하고 있습니다.
+함께 손잡고 가는 길이 즐거운 경험이 되길 희망하고 있습니다.
 
 - 알림 시스템  [요약 글](https://tis-blog.vercel.app/blog/project/design-notification-system), [PPT](https://docs.google.com/presentation/d/1klUR1RAbCrh41HeEVzWa9yfuN1LHzB7FQjgSrkf3TcM/edit#slide=id.g30453fc0244_0_37), [실습 레포](https://github.com/this-is-spear/hello-notification-system/tree/master)
 
